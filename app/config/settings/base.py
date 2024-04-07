@@ -47,6 +47,7 @@ INSTALLED_APPS = [
 
     # internal apps
     'common',
+    'books',
 ]
 
 MIDDLEWARE = [
